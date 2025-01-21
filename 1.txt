@@ -1,4 +1,8 @@
 first line
 
 
-func1() {.....}
+func() {..
+	super
+	..
+	code
+}
