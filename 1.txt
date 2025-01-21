@@ -1,1 +1,7 @@
 first line
+
+func2() {..
+	super
+	..
+	code
+}
